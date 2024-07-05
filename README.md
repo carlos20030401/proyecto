@@ -1,65 +1,29 @@
-Nombre del Juego
-Breve descripción del juego y su objetivo principal.
+<h1 align="left">The Bullets of Survive</h1>
+<img width="223" alt="juego" src="https://github.com/EdMaker1/EdTest/assets/163587399/b5e3dbda-686a-49aa-a3a9-2f1506da5209">
+###
 
-Instalación de Herramientas Necesarias
-Antes de comenzar, asegúrate de tener instaladas las siguientes herramientas:
+<p align="left"># The Bullets of Survive<br><br>## Descripción<br>"The Bullets of Survive" es un emocionante juego de disparos en el que tu objetivo es eliminar a los enemigos y sobrevivir a las oleadas de ataques. A medida que avanzas, podrás restaurar los daños recibidos y pasar de nivel. Además, tendrás la capacidad de lanzar granadas para causar un daño mayor a tus enemigos.<br><br>## Desarrollado con<br>Este juego ha sido desarrollado utilizando el lenguaje de programación **C#**.<br><br>## Requisitos del sistema<br><br>
+### Hardware<br>- **Sistema Operativo**: Windows 10 o superior<br>- **Procesador**: Intel Core i5 o AMD equivalente<br>- **Memoria RAM**: 8 GB<br>- **Tarjeta Gráfica**: NVIDIA GTX 970 / AMD Radeon R9 290 o superior<br>- **Almacenamiento**: 2 GB de espacio disponible<br><br>
+### Software<br>- **.NET Framework**: Versión 4.7.2 o superior<br>- **Microsoft Visual Studio**: Versión 2019 o superior (opcional, para desarrollo)<br><br>## Instalación y Ejecución<br>1. Clona el repositorio o descarga los archivos del juego.<br>2. Asegúrate de tener instalados los requisitos de software mencionados anteriormente.<br>3. Abre el proyecto en Microsoft Visual Studio (opcional) y compílalo.<br>4. Ejecuta el archivo ejecutable generado para iniciar el juego.<br><br>## Controles del Juego<br>- **Mover**: WASD<br>- **Disparar**: Clic izquierdo del ratón<br>- **Lanzar granada**: Clic derecho del ratón<br>- **Recargar**: R<br>- **Restaurar vida**: E<br><br>## Contribuciones<br>Si deseas contribuir al desarrollo de "The Bullets of Survive", siéntete libre de hacer un fork del repositorio y enviar tus pull requests. Todas las contribuciones son bienvenidas.<br><br>## Contacto<br>Para más información o soporte, puedes contactarnos en eccamap@ulasalle.edu.pe, cbarrigaa@ulasalle.edu.pe, dleona@ulasalle.edu.pe.<br><br>¡Gracias por jugar "The Bullets of Survive"! Disfruta del desafío y sobrevive a los enemigos.</p>
 
-Unity 3D
-Descarga Unity Hub:
+###
 
-Descarga e instala Unity Hub desde aquí.
-Unity Hub es una herramienta que te permite gestionar múltiples versiones de Unity y sus instalaciones.
-Instala Unity:
+<h2 align="left">About me</h2>
 
-Abre Unity Hub después de instalarlo.
-Ve a la pestaña "Installs" y haz clic en "Add".
-Selecciona la versión de Unity que deseas instalar y asegúrate de incluir los módulos adicionales que necesites.
-Haz clic en "Next" y sigue las instrucciones para completar la instalación.
-Visual Studio (Opcional, pero recomendado)
-Descarga Visual Studio:
+###
 
-Descarga e instala Visual Studio Community desde aquí.
-Visual Studio es el entorno de desarrollo integrado (IDE) recomendado para el desarrollo en Unity debido a su compatibilidad y funcionalidades avanzadas.
-Configura Visual Studio con Unity:
+<p align="left">✨ Creating bugs since this period of Course LP3 of La Salle University<br>📚 I'm currently learning Video Player Desing<br>🎯 Goals: In this period<br>🎲 Fun fact: At Home</p>
 
-Durante la instalación de Visual Studio, asegúrate de seleccionar la carga de trabajo "Desarrollo de Juegos con Unity" o instala el complemento "Unity Game Development" desde el instalador de Visual Studio.
-Configuración del Proyecto
-Clona o Descarga el Repositorio:
+###
 
-bash
-Copiar código
-git clone https://github.com/tuusuario/turepositorio.git
-Abre el Proyecto en Unity:
+<h2 align="left">I code with</h2>
 
-Abre Unity Hub si aún no está abierto.
-Haz clic en "Add" y selecciona la carpeta del repositorio clonado.
-Unity Hub detectará automáticamente el proyecto y lo agregará a tu lista de proyectos.
-Configura las Preferencias del Proyecto:
+###
 
-Ve a "Edit" -> "Project Settings" y ajusta las configuraciones según las necesidades de tu juego (ej. configuración de calidad, configuración de entrada, etc.).
-Ejecución del Juego
-Selecciona la Escena Principal:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+</div>
 
-En el panel de Proyecto de Unity, navega a Assets/Scenes y selecciona la escena principal del juego (NombreEscena.unity).
-Inicia la Ejecución:
-
-Haz clic en el botón de "Play" en la parte superior del editor de Unity para iniciar la reproducción y probar el juego.
-Contribución
-Si deseas contribuir al proyecto, sigue estos pasos:
-
-Haz un fork del repositorio y clónalo en tu máquina local.
-
-Crea una rama (git checkout -b feature/nueva-caracteristica).
-
-Realiza tus cambios y confirma (git commit -am 'Agrega nueva característica').
-
-Empuja a la rama (git push origin feature/nueva-caracteristica).
-
-Abre una solicitud de extracción en GitHub.
-
-Licencia
-Incluye aquí la licencia bajo la cual se distribuye el juego.
-
-Contacto
-Autor: Nombre del autor
-Reporta problemas o sugerencias en las issues.
+###
